@@ -6,3 +6,4 @@ Now is dev here.
 Simple.
 SIMPLE.
 simple.
+This a simple test.
